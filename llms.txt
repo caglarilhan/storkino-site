@@ -1,0 +1,15 @@
+# Storkino
+
+> Storkino is a baby care app for tracking sleep, feeding, diapers, health and growth with family sharing, optional end-to-end encrypted sync, and no ads or trackers. Coming soon.
+
+## Pages
+- [Storkino (English)](https://storkino.com/)
+- [Storkino (Türkçe)](https://storkino.com/tr/)
+- [Storkino (Deutsch)](https://storkino.com/de/)
+- [Storkino (Français)](https://storkino.com/fr/)
+- [Storkino (Español)](https://storkino.com/es/)
+- [Privacy](https://storkino.com/en/privacy.html)
+- [Terms](https://storkino.com/en/terms.html)
+- [Support](https://storkino.com/en/support.html)
+
+Contact: hello@storkino.com
